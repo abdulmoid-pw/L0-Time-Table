@@ -4,7 +4,6 @@ This project is a simple **Weekly Timetable** webpage built using **HTML** and *
 
 ## Features
 - Structured timetable using semantic HTML.
-- Styled table with alternating row colors for better readability.
 - Simple and easy-to-read design.
 - Fully static and does not require any backend.
 
