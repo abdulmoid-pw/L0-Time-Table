@@ -15,11 +15,11 @@ This project is a simple **Weekly Timetable** webpage built using **HTML** and *
 ## Steps to Install and Run
 1. **Clone the Repository** (if applicable):
    ```sh
-   git clone [https://github.com/username/weekly-timetable.git]
+   git clone [https://github.com/username/L0-Time-Table.git]
    ```
 2. **Navigate to the Project Folder**:
    ```sh
-   cd weekly-timetable
+   cd Time-Table
    ```
 3. **Open `index.html` in a Web Browser**:
    - Double-click `index.html`, or
@@ -29,7 +29,7 @@ This project is a simple **Weekly Timetable** webpage built using **HTML** and *
 ```
 /timetable-project
 │── index.html    # Main HTML file (contains timetable structure)
-│── styles.css    # CSS file (contains styling for the table and page)
+│── style.css    # CSS file (contains styling for the table and page)
 ```
 
 ## Usage and Customization
